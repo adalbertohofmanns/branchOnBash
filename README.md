@@ -23,4 +23,4 @@ Arquivo .sh para exibir a branch atual e a versão do Ruby do projeto.
 * Na aba `Comando`
 * Habilite o `Executar comando como shell da sessão`
 
-![Captura de tela de 2015-08-03 00:16:55.png](https://bitbucket.org/repo/g4k8yK/images/3512019179-Captura%20de%20tela%20de%202015-08-03%2000:16:55.png)
+![terminal.png](https://bitbucket.org/repo/g4k8yK/images/915668319-terminal.png)
