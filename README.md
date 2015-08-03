@@ -15,3 +15,9 @@ Arquivo .sh para exibir a branch atual e a versão do Ruby do projeto.
 * Pronto, reinicie o Terminal para garantir as mudanças.
 
 ![terminal.png](https://bitbucket.org/repo/g4k8yK/images/3929008550-terminal.png)
+
+### Ajustando o Terminal ###
+
+* Clique em `Editar`
+* Preferencias do Perfil
+* emfim, na aba `Comando
