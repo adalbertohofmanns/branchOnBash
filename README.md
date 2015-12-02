@@ -10,6 +10,7 @@ Arquivo .sh para exibir a branch atual e a versão do Ruby do projeto.
 ### Como eu o instalo? ###
 
 * Salve-o na raiz do usuário, se preferir em outro diretorio.
+* [Download Aqui](https://bitbucket.org/adalbertohofmann/branchonbash/raw/442a1fb9a7d447570dd94e658347dc3245fbc789/branchOnBash.sh)
 * Abra o Terminal, Ctrl+Alt+T.
 * Digite: sh branchOnBash.sh
 * Pronto, reinicie o Terminal para garantir as mudanças.
