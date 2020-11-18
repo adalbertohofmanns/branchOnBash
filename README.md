@@ -15,7 +15,8 @@ Arquivo .sh para exibir a branch atual e a versão do Ruby do projeto.
 * Digite: sh branchOnBash.sh
 * Pronto, reinicie o Terminal para garantir as mudanças.
 
-![terminal.png](https://bitbucket.org/repo/g4k8yK/images/3929008550-terminal.png)
+### ou se preferir execute ###
+* `bash <(curl -s https://raw.githubusercontent.com/adalbertohofmanns/branchOnBash/master/branchOnBash.sh)`
 
 ### Ajustando o Terminal ###
 
@@ -23,5 +24,3 @@ Arquivo .sh para exibir a branch atual e a versão do Ruby do projeto.
 * Preferencias do Perfil
 * Na aba `Comando`
 * Habilite o `Executar comando como shell da sessão`
-
-![terminal.png](https://bitbucket.org/repo/g4k8yK/images/915668319-terminal.png)
